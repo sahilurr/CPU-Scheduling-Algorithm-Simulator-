@@ -1,0 +1,10 @@
+# compiled binary
+scheduler_sim
+scheduler_sim.exe
+
+# object files
+*.o
+
+# editor files
+*.swp
+*~
